@@ -1,0 +1,233 @@
+{
+  "paper": [
+    {
+      "examName": "Rrb",
+      "questions": [
+        {
+          "question_id": 1,
+          "question": "What is state in React?",
+          "option": [
+            {
+              "id": 1,
+              "ans": "Hold information about component"
+            },
+            {
+              "id": 2,
+              "ans": "it is immutable"
+            },
+            {
+              "id": 3,
+              "ans": "global state container"
+            },
+            {
+              "id": 4,
+              "ans": "None"
+            }
+          ],
+          "correctAnswer": "Hold information about component",
+          "YourAnswer": "",
+          "isDone": 1
+        },
+        {
+          "question_id": 2,
+          "question": "latest Version of React?",
+          "option": [
+            {
+              "id": 1,
+              "ans": "v18"
+            },
+            {
+              "id": 2,
+              "ans": "v19"
+            },
+            {
+              "id": 3,
+              "ans": "v17"
+            },
+            {
+              "id": 4,
+              "ans": "None"
+            }
+          ],
+          "correctAnswer": "v18",
+          "YourAnswer": "",
+          "isDone": 0
+        },
+        {
+          "question_id": 3,
+          "question": "How many elements can a valid react component return?",
+          "option": [
+            {
+              "id": 1,
+              "ans": "1"
+            },
+            {
+              "id": 2,
+              "ans": "2"
+            },
+            {
+              "id": 3,
+              "ans": "3"
+            },
+            {
+              "id": 4,
+              "ans": "4"
+            }
+          ],
+          "correctAnswer": "1",
+          "YourAnswer": "",
+          "isDone": 1
+        },
+        {
+          "question_id": 4,
+          "question": " In MVC, what does React.js act as?",
+          "option": [
+            {
+              "id": 1,
+              "ans": "Model"
+            },
+            {
+              "id": 2,
+              "ans": "Controller"
+            },
+            {
+              "id": 3,
+              "ans": "View"
+            },
+            {
+              "id": 4,
+              "ans": "Middleware"
+            }
+          ],
+          "correctAnswer": "View",
+          "YourAnswer": "",
+          "isDone": 0
+        },
+        {
+          "question_id": 5,
+          "question": "Identify the smallest building block of React.JS.",
+          "option": [
+            {
+              "id": 1,
+              "ans": "Props"
+            },
+            {
+              "id": 2,
+              "ans": "Element"
+            },
+            {
+              "id": 3,
+              "ans": "Component"
+            },
+            {
+              "id": 4,
+              "ans": "None of the Above"
+            }
+          ],
+          "correctAnswer": "None of the Above",
+          "YourAnswer": "",
+          "isDone": 0
+        },
+        {
+          "question_id": 6,
+          "question": "  A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+          "option": [
+            {
+              "id": 1,
+              "ans": "3.6"
+            },
+            {
+              "id": 2,
+              "ans": "7.2"
+            },
+            {
+              "id": 3,
+              "ans": "8.4"
+            },
+            {
+              "id": 4,
+              "ans": "10"
+            }
+          ],
+          "correctAnswer": "10",
+          "YourAnswer": "",
+          "isDone": 0
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "rollNo": "SSC012",
+      "password": "exam321"
+    },
+    {
+      "rollNo": "SSC012",
+      "password": "exam321",
+      "id": 2
+    },
+    {
+      "rollNo": "SSC012",
+      "password": "exam321",
+      "id": 3
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin1",
+      "password": "adminPassword1"
+    },
+    {
+      "username": "admin1",
+      "password": "adminPassword1",
+      "id": 2
+    },
+    {
+      "username": "admin1",
+      "password": "adminPassword1",
+      "id": 3
+    },
+    {
+      "username": "admin1",
+      "password": "adminPassword1",
+      "id": 4
+    },
+    {
+      "username": "admin1",
+      "password": "adminPassword1",
+      "id": 5
+    },
+    {
+      "username": "admin1",
+      "password": "adminPassword1",
+      "id": 6
+    },
+    {
+      "username": "admin1",
+      "password": "adminPassword1",
+      "id": 7
+    },
+    {
+      "username": "admin1",
+      "password": "adminPassowrd1",
+      "id": 8
+    },
+    {
+      "username": "admin1",
+      "password": "adminPassword1",
+      "id": 9
+    },
+    {
+      "username": "admin1",
+      "password": "adminPassword1",
+      "id": 10
+    },
+    {
+      "username": "admin1",
+      "password": "adminPassword1",
+      "id": 11
+    }
+  ]
+}
